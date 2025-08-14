@@ -1,0 +1,15 @@
+# Core numeric / ML stack
+numpy
+scikit-learn
+joblib
+
+# Audio processing
+librosa
+scipy
+soundfile
+
+# Microphone (live prediction)
+sounddevice
+
+# Dataset loader (Hugging Face)
+datasets
